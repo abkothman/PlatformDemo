@@ -1,5 +1,5 @@
 <h1>Platform Demo</h1>
-A simple platformer with not a lot of features (yet).
+A simple platformer with very few features (so far).
 
 <h3>Compile</h3>
 To compile on a unix-like system, run <b>make.sh</b> or <b>makeDebug.sh</b>.
